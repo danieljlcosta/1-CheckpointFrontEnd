@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+.banner {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/63/Curimata%C3%AD.jpg");
+    height: 80%;
+    margin: 20px;
+    background-size: cover;
+    background-position: center;
+    padding: 5px;
+
+}
+
+
+.titulo {
+    font-size: 55px;
+    background-color: rgb(139, 223, 139);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 20px;
+    width: 98%;
+    height: 80px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.subTitulo {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 20px;
+    width: 98%;
+    height: 80px;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    text-align: justify;
+    margin: 50px;
+}
+
+a {
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+    text-align: justify;
+    margin: 50px;
+}
+
+ul, li {
+    font-size: 20px;
+    color: rgb(12, 5, 5);
+    font-family: sans-serif;
+    margin: 10px;
+    font-weight: 800;
+    background-position: center;
+}
+
+#link1 {
+    width: 1280px;
+    height: 720px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link2 {
+    text-decoration: none;
+    font-family: sans-serif;
+  }
+  
+.btn {
+    padding: 15px;
+    border-radius: 5px;
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    box-shadow: 0 0 0 5px rgb(90, 87, 87);
+    display: block;
+    margin: 50px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .redesSociais {
+    width: 80px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table-footer-group;
+
+  }
+
+  
